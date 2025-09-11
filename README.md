@@ -16,4 +16,20 @@ Srumble Cpp现在只支持C++，以后请看开发！
 
 ## 下载地址。
 
-请前往该下载地址下载:[Srumble Cpp下载]([https://winlibs.com/](https://github.com/armsoftware3079-netizen/OICPP-IDE/releases))
+请前往该下载地址下载:[Srumble Cpp下载](https://github.com/armsoftware3079-netizen/OICPP-IDE/releases)
+
+目前已知支持x64操作系统的电脑，目前x86操作系统的电脑兼容性未知。
+
+如果Github下载速度缓慢，请复制下载链接并转到下载工具处下载(例如夸克网盘、Neat Download Manager等工具)，感谢您的下载。
+
+## 相关内容
+
+本Srumble Cpp为开源的项目，开源在了Github上面。
+
+如果你有宝贵的意见，请发送邮箱至Armsoftware3079@gmail.com。
+
+开源项目网址:https://github.com/armsoftware3079-netizen/OICPP-IDE。
+
+QQ群:1059477694。
+
+# 感谢您的理解与支持，祝您使用愉快！
