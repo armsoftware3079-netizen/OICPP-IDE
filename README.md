@@ -28,7 +28,7 @@ Srumble Cpp现在只支持C++，以后请看开发！
 
 如果你有宝贵的意见，请发送邮箱至Armsoftware3079@gmail.com。
 
-开源项目网址:https://github.com/armsoftware3079-netizen/OICPP-IDE。
+开源项目网址:“https://github.com/armsoftware3079-netizen/Srumble-cpp”。
 
 QQ群:1059477694。
 
